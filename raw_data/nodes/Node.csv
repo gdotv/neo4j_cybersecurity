@@ -1,0 +1,4 @@
+app,cluster,isNamespaced,critical,team,storeID,service,name,namespace,runID,compromised,class,id,label
+,kind-kubehound.test.local,false,false,,686cdf53dce18c406e3d26e7,,kubehound.test.local-worker2,,01jzmmdybqgekbn439fjdz6she,0,Node,1245536,Node
+,kind-kubehound.test.local,false,false,,686cdf53dce18c406e3d26e5,,kubehound.test.local-control-plane,,01jzmmdybqgekbn439fjdz6she,0,Node,1639960,Node
+,kind-kubehound.test.local,false,false,,686cdf53dce18c406e3d26e6,,kubehound.test.local-worker,,01jzmmdybqgekbn439fjdz6she,0,Node,1180000,Node
