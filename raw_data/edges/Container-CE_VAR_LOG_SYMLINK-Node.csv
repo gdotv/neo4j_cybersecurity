@@ -1,0 +1,2 @@
+from,to,attckTacticID,attckTechniqueID,label
+1245536,2035000,TA0006,T1552,CE_VAR_LOG_SYMLINK (Node to Container)

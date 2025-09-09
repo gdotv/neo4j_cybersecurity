@@ -1,0 +1,3 @@
+from,to,attckTechniqueID,attckTacticID,label
+1245536,1441840,T1611,TA0004,CE_NSENTER (Node to Container)
+1245536,1770952,T1611,TA0004,CE_NSENTER (Node to Container)

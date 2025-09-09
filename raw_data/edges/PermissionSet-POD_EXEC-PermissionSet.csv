@@ -1,0 +1,3 @@
+from,to,attckTechniqueID,attckTacticID,label
+327880,327880,T1609,TA0002,POD_EXEC (PermissionSet to PermissionSet)
+132416,132416,T1609,TA0002,POD_EXEC (PermissionSet to PermissionSet)
